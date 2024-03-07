@@ -14,7 +14,7 @@ export default links => html`
             </li>
           `
         )
-        .join("")};
+        .join("")}
     </ul>
   </nav>
 `;
